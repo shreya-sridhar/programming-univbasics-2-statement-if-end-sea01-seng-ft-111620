@@ -29,7 +29,7 @@ Following this line, we can add some code that we want to run when the if
 statement is true. This code is conditional - it may or may not run! To let Ruby
 know we're done writing conditional code, we add `end`.
 
-
+```ruby
 if true
   puts "This code runs!"
 end
